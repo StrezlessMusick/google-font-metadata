@@ -34,7 +34,7 @@
 		"execa": "^8.0.1",
 		"got": "^12.6.1",
 		"json-stringify-pretty-compact": "^4.0.0",
-		"linkedom": "^0.15.3",
+		"linkedom": "^0.16.0",
 		"p-queue": "^7.4.1",
 		"pathe": "^1.1.1",
 		"picocolors": "^1.0.0",
