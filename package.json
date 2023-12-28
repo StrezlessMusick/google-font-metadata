@@ -35,7 +35,7 @@
 		"got": "^12.6.1",
 		"json-stringify-pretty-compact": "^4.0.0",
 		"linkedom": "^0.15.3",
-		"p-queue": "^7.4.1",
+		"p-queue": "^8.0.0",
 		"pathe": "^1.1.1",
 		"picocolors": "^1.0.0",
 		"puppeteer": "^21.1.1",
